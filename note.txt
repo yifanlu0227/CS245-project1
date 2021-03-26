@@ -1,0 +1,7 @@
+After k-folds cross-validation, the accuary on valset is  0.9184735741952885  when c is  100.0
+After k-folds cross-validation, the accuary on valset is  0.9186077023547599  when c is  10.0
+After k-folds cross-validation, the accuary on valset is  0.9190993524348002  when c is  1
+After k-folds cross-validation, the accuary on valset is  0.9199932171728396  when c is  0.1
+After k-folds cross-validation, the accuary on valset is  0.9256249416242323  when c is  0.01
+After k-folds cross-validation, the accuary on valset is  0.9348770774905537  when c is  0.001
+After k-folds cross-validation, the accuary on valset is  0.924328592513417  when c is  0.0001
